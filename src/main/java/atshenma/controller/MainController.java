@@ -2,6 +2,7 @@ package atshenma.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  *
@@ -11,7 +12,7 @@ public class MainController {
 
     @RequestMapping("/index")
     public String index(){
-        return "product/index";
+        return "index";
     }
 
     @RequestMapping("/noAuth")
@@ -21,6 +22,6 @@ public class MainController {
 
     @RequestMapping("/login")
     public String login(){
-        return "login.html";
+        return "login";
     }
 }

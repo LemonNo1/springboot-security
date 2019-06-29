@@ -1,8 +1,6 @@
 package atshenma.entity;
 
-import lombok.Data;
 
-@Data
 public class Permission {
 	private Integer id;
 	// 权限名称
@@ -21,6 +19,39 @@ public class Permission {
 				", url='" + url + '\'' +
 				'}';
 	}
+
+	public Integer getId() {
+		return id;
+	}
+
+	public void setId(Integer id) {
+		this.id = id;
+	}
+
+	public String getPermName() {
+		return permName;
+	}
+
+	public void setPermName(String permName) {
+		this.permName = permName;
+	}
+
+	public String getPermTag() {
+		return permTag;
+	}
+
+	public void setPermTag(String permTag) {
+		this.permTag = permTag;
+	}
+
+	public String getUrl() {
+		return url;
+	}
+
+	public void setUrl(String url) {
+		this.url = url;
+	}
+	
 }
 
 

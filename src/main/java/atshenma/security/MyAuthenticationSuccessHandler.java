@@ -22,10 +22,10 @@ public class MyAuthenticationSuccessHandler implements AuthenticationSuccessHand
     @Override
     public void onAuthenticationSuccess(HttpServletRequest request, HttpServletResponse response, Authentication authentication)
             throws IOException, ServletException {
-        Map<String,Object> map = new HashMap<>();
+        Map<String,Object> map = new HashMap<String,Object>();
         map.put("success",true);
         String json = objectMapper.writeValueAsString(map);
         response.setContentType("text/json;charset=utf-8");
-        response.getWriter().write(json);
+        response.sendRedirect("/index");
     }
 }

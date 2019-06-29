@@ -4,26 +4,25 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-@RequestMapping("/prod")
 public class ProductController {
 
-    @RequestMapping("/delete")
+    @RequestMapping("/deleteOrder")
     public String delete() {
-        return "product/delete";
+        return "deleteOrder";
     }
 
-    @RequestMapping("/update")
+    @RequestMapping("/updateOrder")
     public String update() {
-        return "product/update";
+        return "updateOrder";
     }
 
-    @RequestMapping("/list")
+    @RequestMapping("/showOrder")
     public String list() {
-        return "product/list";
+        return "showOrder";
     }
 
-    @RequestMapping("/add")
+    @RequestMapping("/addOrder")
     public String add() {
-        return "product/add";
+        return "addOrder";
     }
 }

@@ -1,0 +1,14 @@
+G:\security\springboot-security\src\main\java\atshenma\entity\Role.java
+G:\security\springboot-security\src\main\java\atshenma\security\MyAuthenticationSuccessHandler.java
+G:\security\springboot-security\src\main\java\atshenma\security\SpringSecurityConfig.java
+G:\security\springboot-security\src\main\java\atshenma\utils\MD5Util.java
+G:\security\springboot-security\src\main\java\atshenma\controller\MainController.java
+G:\security\springboot-security\src\main\java\atshenma\entity\User.java
+G:\security\springboot-security\src\main\java\atshenma\controller\ProductController.java
+G:\security\springboot-security\src\main\java\atshenma\mapper\UserMapper.java
+G:\security\springboot-security\src\main\java\atshenma\App.java
+G:\security\springboot-security\src\main\java\atshenma\mapper\PermissionMapper.java
+G:\security\springboot-security\src\main\java\atshenma\security\ErroePageConfig.java
+G:\security\springboot-security\src\main\java\atshenma\service\MyUserDetailService.java
+G:\security\springboot-security\src\main\java\atshenma\entity\Permission.java
+G:\security\springboot-security\src\main\java\atshenma\security\MyAuthenticationFailureHandler.java

@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ae4cb7b-407b-4573-83bb-e517c3b8554c" name="Default Changelist" comment="" />
+    <list default="true" id="1ae4cb7b-407b-4573-83bb-e517c3b8554c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/addOrder.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/deleteOrder.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/error/403.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/error/logFail.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/showOrder.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/updateOrder.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security-springboot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atshenma/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atshenma/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atshenma/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atshenma/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atshenma/entity/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atshenma/entity/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atshenma/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atshenma/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atshenma/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atshenma/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atshenma/security/ErroePageConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atshenma/security/ErroePageConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atshenma/security/MyAuthenticationFailureHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atshenma/security/MyAuthenticationFailureHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atshenma/security/MyAuthenticationSuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atshenma/security/MyAuthenticationSuccessHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atshenma/security/SpringSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atshenma/security/SpringSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atshenma/service/MyUserDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atshenma/service/MyUserDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resource/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resource/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resource/templates/error/403.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resource/templates/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resource/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resource/templates/product/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resource/templates/product/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resource/templates/product/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resource/templates/product/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resource/templates/product/update.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/controller/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/entity/Permission.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/entity/Permission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/entity/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/entity/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/mapper/PermissionMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/mapper/PermissionMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/security/ErroePageConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/security/ErroePageConfig$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/security/ErroePageConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/security/ErroePageConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/security/MyAuthenticationFailureHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/security/MyAuthenticationFailureHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/security/MyAuthenticationSuccessHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/security/MyAuthenticationSuccessHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/security/SpringSecurityConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/security/SpringSecurityConfig$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/security/SpringSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/security/SpringSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/service/MyUserDetailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/service/MyUserDetailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atshenma/utils/MD5Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atshenma/utils/MD5Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/error/403.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/product/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/product/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/product/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/product/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/product/update.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/atshenma/SecuritySpringBootTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/atshenma/SecuritySpringBootTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,99 +69,44 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="189967694">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.49" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="521" />
-          <entry key="java" value="1776" />
-          <entry key="properties" value="3" />
-          <entry key="xml" value="68" />
-          <entry key="yml" value="204" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="521" />
-          <entry key="JAVA" value="1776" />
-          <entry key="Properties" value="3" />
-          <entry key="XML" value="68" />
-          <entry key="YAML" value="204" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="3" />
-          <entry key="html" value="15" />
-          <entry key="java" value="35" />
-          <entry key="js" value="1" />
-          <entry key="mybatis-config" value="1" />
-          <entry key="pom" value="2" />
-          <entry key="properties" value="1" />
-          <entry key="rnc" value="1" />
-          <entry key="xml" value="4" />
-          <entry key="yml" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="3" />
-          <entry key="HTML" value="15" />
-          <entry key="JAVA" value="35" />
-          <entry key="JavaScript" value="1" />
-          <entry key="Properties" value="1" />
-          <entry key="RNG Compact" value="1" />
-          <entry key="XML" value="7" />
-          <entry key="YAML" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            <state relative-caret-position="253">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#588#589#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="97" column="12" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/security/SpringSecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="464">
+              <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1373#1374#0" expanded="true" />
-                <element signature="e#1452#1453#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/utils/MD5Util.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -110,8 +114,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/security/ErroePageConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="335">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,37 +124,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resource/templates/login.html">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar!/org/springframework/http/HttpStatus.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resource/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="154">
+              <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/security/spring-security-config/3.2.9.RELEASE/spring-security-config-3.2.9.RELEASE.jar!/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.class">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="75" column="30" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
+            <state relative-caret-position="351">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/security/MyAuthenticationSuccessHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/atshenma/SecuritySpringBootTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+            <state relative-caret-position="141">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -159,10 +154,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/security/MyAuthenticationFailureHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/mapper/UserMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+            <state relative-caret-position="351">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/controller/ProductController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -173,10 +180,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/service/MyUserDetailService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+            <state relative-caret-position="92">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1117#1135#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -187,8 +195,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -196,11 +204,17 @@
     <findStrings>
       <find>sys</find>
       <find>username</find>
+      <find>tab_user_role</find>
     </findStrings>
     <replaceStrings>
       <replace>tab</replace>
       <replace>user_name</replace>
+      <replace>tab_role_user</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -210,45 +224,43 @@
         <option value="$PROJECT_DIR$/src/main/resource/templates/product/delete.html" />
         <option value="$PROJECT_DIR$/src/main/resource/templates/product/list.html" />
         <option value="$PROJECT_DIR$/src/main/resource/templates/product/update.html" />
-        <option value="$PROJECT_DIR$/src/main/java/atshenma/controller/ProductController.java" />
         <option value="$PROJECT_DIR$/src/main/resource/templates/error/403.html" />
-        <option value="$PROJECT_DIR$/src/main/java/atshenma/controller/MainController.java" />
         <option value="$PROJECT_DIR$/src/main/java/atshenma/entity/Role.java" />
         <option value="$PROJECT_DIR$/src/main/java/atshenma/mapper/PermissionMpper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/atshenma/security/ErroePageConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/atshenma/mapper/PermissionMapper.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/SecuritySpringBootTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/atshenma/test/SecuritySpringBootTest.java" />
         <option value="$PROJECT_DIR$/src/main/resource/application.properties" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/atshenma/entity/Permission.java" />
         <option value="$PROJECT_DIR$/src/main/java/atshenma/service/MyUserDetail.java" />
         <option value="$PROJECT_DIR$/src/test/java/atshenma/SecuritySpringBootTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/atshenma/service/MyUserDetailService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/atshenma/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/atshenma/entity/User.java" />
         <option value="$PROJECT_DIR$/src/main/resource/templates/product/index.html" />
-        <option value="$PROJECT_DIR$/src/main/java/atshenma/security/MyAuthenticationFailureHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/atshenma/security/MyAuthenticationSuccessHandler.java" />
         <option value="$PROJECT_DIR$/src/main/resource/templates/login.html" />
         <option value="$PROJECT_DIR$/src/main/resource/templates/login.ftl" />
         <option value="$PROJECT_DIR$/src/main/java/atshenma/utils/MD5Util.java" />
-        <option value="$PROJECT_DIR$/src/main/java/atshenma/security/SpringSecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/main/resource/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/resources/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/atshenma/security/MyAuthenticationFailureHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/atshenma/service/MyUserDetailService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/atshenma/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/login.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/atshenma/security/MyAuthenticationSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/atshenma/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/atshenma/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/atshenma/security/ErroePageConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/atshenma/security/SpringSecurityConfig.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/maven/apache-maven-3.5.3/apache-maven-3.5.3" />
-        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+        <option name="mavenHome" value="F:/Maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="F:\Maven\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -280,54 +292,72 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="320" />
-    <option name="y" value="132" />
-    <option name="width" value="1415" />
+    <option name="x" value="-451" />
+    <option name="y" value="16" />
+    <option name="width" value="1334" />
     <option name="height" value="946" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="security-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="security-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-security" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="security-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="security-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-security" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="security-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="security-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-security" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="security-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="security-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-security" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="security-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="security-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-security" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="atshenma" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="security-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="security-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atshenma" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atshenma" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-security" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -335,8 +365,8 @@
               <item name="security" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="security-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="security-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-security" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -344,54 +374,28 @@
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="security-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="security-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-security" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="atshenma" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="security-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="security-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="security-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="security-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="security-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="security-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="security-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="security-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-security" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="security-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="security-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-security" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="security-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="security-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-security" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -401,6 +405,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -411,15 +416,18 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561715751380" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-security-ssm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/workspace.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/.idea/workspace.xml" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -448,7 +456,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MD5Util">
+  <component name="RunManager" selected="JUnit.SecuritySpringBootTest.test1 (1)">
     <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atshenma.utils.MD5Util" />
       <module name="security-springboot" />
@@ -524,19 +532,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.App" />
+      <item itemvalue="Application.MD5Util" />
       <item itemvalue="JUnit.SecuritySpringBootTest.test1 (1)" />
       <item itemvalue="JUnit.SecuritySpringBootTest.test2" />
       <item itemvalue="JUnit.SecuritySpringBootTest.test3" />
-      <item itemvalue="Application.MD5Util" />
+      <item itemvalue="Spring Boot.App" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.App" />
-        <item itemvalue="Application.MD5Util" />
-        <item itemvalue="JUnit.SecuritySpringBootTest.test3" />
-        <item itemvalue="JUnit.SecuritySpringBootTest.test2" />
         <item itemvalue="JUnit.SecuritySpringBootTest.test1 (1)" />
+        <item itemvalue="JUnit.SecuritySpringBootTest.test2" />
+        <item itemvalue="JUnit.SecuritySpringBootTest.test3" />
+        <item itemvalue="Application.MD5Util" />
       </list>
     </recent_temporary>
   </component>
@@ -553,22 +561,11 @@
       <workItem from="1561448903961" duration="8210000" />
       <workItem from="1561535411266" duration="1412000" />
       <workItem from="1561683523435" duration="23021000" />
+      <workItem from="1561796885567" duration="7694000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SecuritySpringBootTest_test2 - 2019.06.28 at 15h 02m 55s.xml">
-      <configuration name="SecuritySpringBootTest.test2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecuritySpringBootTest_test2 - 2019.06.28 at 15h 09m 12s.xml">
-      <configuration name="SecuritySpringBootTest.test2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecuritySpringBootTest_test3 - 2019.06.28 at 15h 14m 49s.xml">
-      <configuration name="SecuritySpringBootTest.test3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecuritySpringBootTest_test2 - 2019.06.28 at 15h 18m 01s.xml">
-      <configuration name="SecuritySpringBootTest.test2" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SecuritySpringBootTest_test3 - 2019.06.28 at 15h 18m 08s.xml">
       <configuration name="SecuritySpringBootTest.test3" configurationId="JUnit" />
     </history-entry>
@@ -587,15 +584,26 @@
     <history-entry file="SecuritySpringBootTest_test3 - 2019.06.28 at 15h 35m 17s.xml">
       <configuration name="SecuritySpringBootTest.test3" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SecuritySpringBootTest_test3 - 2019.06.29 at 17h 55m 23s.xml">
+      <configuration name="SecuritySpringBootTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecuritySpringBootTest_test2 - 2019.06.29 at 17h 55m 50s.xml">
+      <configuration name="SecuritySpringBootTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecuritySpringBootTest_test1_(1) - 2019.06.29 at 17h 56m 11s.xml">
+      <configuration name="SecuritySpringBootTest.test1 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecuritySpringBootTest_test1_(1) - 2019.06.29 at 17h 59m 38s.xml">
+      <configuration name="SecuritySpringBootTest.test1 (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32643000" />
+    <option name="totallyTimeSpent" value="40337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16897655" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -603,20 +611,23 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Problems" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.36147186" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4025974" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.40238613" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.40238613" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286334" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -632,81 +643,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/pinyougou/repository_pinyougou/org/springframework/boot/spring-boot-dependencies/1.5.4.RELEASE/spring-boot-dependencies-1.5.4.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="536" column="12" selection-start-line="536" selection-start-column="12" selection-end-line="536" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/pinyougou/repository_pinyougou/org/springframework/boot/spring-boot-dependencies/1.5.4.RELEASE/spring-boot-dependencies-1.5.4.RELEASE.pom" />
     <entry file="file://$PROJECT_DIR$/src/test/java/atshenma/AppTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/product/delete.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="192" column="7" lean-forward="true" selection-start-line="192" selection-start-column="7" selection-end-line="192" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/error/403.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/product/add.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/product/update.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/product/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/security/spring-security-config/3.2.9.RELEASE/spring-security-config-3.2.9.RELEASE.jar!/org/springframework/security/config/annotation/web/AbstractRequestMatcherRegistry.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/security/spring-security-config/3.2.9.RELEASE/spring-security-config-3.2.9.RELEASE.jar!/org/springframework/security/config/annotation/web/configurers/FormLoginConfigurer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="63" lean-forward="true" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/boot/spring-boot/1.5.4.RELEASE/spring-boot-1.5.4.RELEASE-sources.jar!/org/springframework/boot/context/embedded/EmbeddedServletContainerCustomizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/product/delete.html" />
+    <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/error/403.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/product/add.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/product/update.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/product/list.html" />
+    <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/security/spring-security-config/3.2.9.RELEASE/spring-security-config-3.2.9.RELEASE.jar!/org/springframework/security/config/annotation/web/AbstractRequestMatcherRegistry.class" />
+    <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/security/spring-security-config/3.2.9.RELEASE/spring-security-config-3.2.9.RELEASE.jar!/org/springframework/security/config/annotation/web/configurers/FormLoginConfigurer.class" />
+    <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/boot/spring-boot/1.5.4.RELEASE/spring-boot-1.5.4.RELEASE-sources.jar!/org/springframework/boot/context/embedded/EmbeddedServletContainerCustomizer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/entity/Role.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -728,50 +676,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/controller/ProductController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/mybatis/mapper/EmployeeMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/mybatis/mybatis-config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/mybatis/mapper/EmployeeMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resource/mybatis/mybatis-config" />
     <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/entity/Permission.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
@@ -779,43 +685,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/mapper/PermissionMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/atshenma/SecuritySpringBootTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="43" column="51" lean-forward="true" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -838,50 +708,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/product/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/AuthenticationFailureHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/security/spring-security-config/3.2.9.RELEASE/spring-security-config-3.2.9.RELEASE.jar!/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="75" column="30" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/js/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/security/MyAuthenticationSuccessHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/security/MyAuthenticationFailureHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/product/index.html" />
+    <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/AuthenticationFailureHandler.java" />
+    <entry file="jar://D:/pinyougou/repository_pinyougou/org/springframework/security/spring-security-config/3.2.9.RELEASE/spring-security-config-3.2.9.RELEASE.jar!/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/js/jquery.min.js" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -889,10 +719,138 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/login.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/utils/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/resources/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/security/MyAuthenticationSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#951#966#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/security/MyAuthenticationFailureHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1016#1031#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/mapper/PermissionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/service/MyUserDetailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1117#1135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/atshenma/SecuritySpringBootTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="97" column="12" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar!/org/springframework/http/HttpStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/security/ErroePageConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="335">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -901,57 +859,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/service/MyUserDetailService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        <state relative-caret-position="253">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/utils/MD5Util.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/controller/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="189">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/atshenma/security/SpringSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        <state relative-caret-position="464">
+          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1373#1374#0" expanded="true" />
-            <element signature="e#1452#1453#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
